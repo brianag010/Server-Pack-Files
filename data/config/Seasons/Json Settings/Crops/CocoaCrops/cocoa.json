@@ -1,0 +1,1762 @@
+{
+	"Spring": {
+		"Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Hell": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sky": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenOcean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenRiver": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Mountains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIsland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIslandShore": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"DesertHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"ForestHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"TaigaHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills Edge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deep Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Stone Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Arctic": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bamboo Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bayou": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bog": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boreal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Brushland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Chaparral": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cherry Blossom Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Snowy Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Crag": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deciduous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dense Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Eucalyptus Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fen": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Field": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Frost Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fungi Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grassland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Heathland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Highland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jade Cliffs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lavender Fields": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Maple Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Moor": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mountain": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mystic Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ominous Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Orchard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Origin Valley": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Outback": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Prairie": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Redwood Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sacred Springs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shield": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sludgepit": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Steppe": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Temperate Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Thicket": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropical Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tundra": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wasteland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wetland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Woodland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Xeric Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coral Reef": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Kelp Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropics": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Volcano": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mangrove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon Ravine": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Glacier": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Oasis": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Quagmire": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Scrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest Clearing": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Silkglades": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spruce Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Corrupted Sands": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Phantasmagoric Inferno": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boneyard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Visceral Heap": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Undergarden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Polar Chasm": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spectral Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dry River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"biome.treasure.name": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Darkness": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sunflower Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains Spikes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Spruce Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+ M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa (Bryce)": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		}
+	},
+	"Summer": {
+		"Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Hell": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sky": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenOcean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenRiver": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Mountains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIsland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIslandShore": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"DesertHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"ForestHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"TaigaHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills Edge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deep Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Stone Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Arctic": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bamboo Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bayou": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bog": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boreal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Brushland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Chaparral": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cherry Blossom Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Snowy Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Crag": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deciduous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dense Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Eucalyptus Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fen": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Field": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Frost Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fungi Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grassland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Heathland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Highland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jade Cliffs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lavender Fields": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Maple Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Moor": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mountain": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mystic Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ominous Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Orchard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Origin Valley": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Outback": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Prairie": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Redwood Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sacred Springs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shield": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sludgepit": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Steppe": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Temperate Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Thicket": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropical Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tundra": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wasteland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wetland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Woodland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Xeric Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coral Reef": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Kelp Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropics": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Volcano": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mangrove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon Ravine": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Glacier": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Oasis": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Quagmire": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Scrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest Clearing": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Silkglades": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spruce Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Corrupted Sands": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Phantasmagoric Inferno": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boneyard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Visceral Heap": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Undergarden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Polar Chasm": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spectral Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dry River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"biome.treasure.name": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Darkness": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sunflower Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains Spikes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Spruce Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+ M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa (Bryce)": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		}
+	},
+	"Autumn": {
+		"Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Hell": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sky": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenOcean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenRiver": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Mountains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIsland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIslandShore": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"DesertHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"ForestHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"TaigaHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills Edge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deep Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Stone Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Arctic": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bamboo Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bayou": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bog": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boreal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Brushland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Chaparral": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cherry Blossom Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Snowy Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Crag": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deciduous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dense Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Eucalyptus Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fen": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Field": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Frost Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fungi Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grassland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Heathland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Highland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jade Cliffs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lavender Fields": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Maple Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Moor": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mountain": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mystic Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ominous Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Orchard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Origin Valley": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Outback": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Prairie": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Redwood Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sacred Springs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shield": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sludgepit": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Steppe": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Temperate Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Thicket": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropical Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tundra": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wasteland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wetland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Woodland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Xeric Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coral Reef": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Kelp Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropics": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Volcano": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mangrove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon Ravine": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Glacier": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Oasis": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Quagmire": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Scrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest Clearing": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Silkglades": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spruce Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Corrupted Sands": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Phantasmagoric Inferno": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boneyard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Visceral Heap": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Undergarden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Polar Chasm": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spectral Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dry River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"biome.treasure.name": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Darkness": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sunflower Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains Spikes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Spruce Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+ M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa (Bryce)": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		}
+	},
+	"Winter": {
+		"Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Hell": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sky": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenOcean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"FrozenRiver": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Mountains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIsland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"MushroomIslandShore": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"DesertHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"ForestHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"TaigaHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills Edge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleHills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deep Ocean": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Stone Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Beach": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Taiga Hills": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Arctic": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bamboo Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bayou": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Bog": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boreal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Brushland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Chaparral": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cherry Blossom Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Snowy Coniferous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Crag": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dead Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Deciduous Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dense Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Eucalyptus Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fen": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Field": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Frost Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Fungi Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grassland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Heathland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Highland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jade Cliffs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lavender Fields": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Desert": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush Swamp": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Maple Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Moor": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mountain": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mystic Grove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ominous Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Orchard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Origin Valley": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Outback": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Prairie": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Redwood Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sacred Springs": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shield": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sludgepit": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Steppe": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Temperate Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Thicket": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropical Rainforest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tundra": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wasteland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Wetland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Woodland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Xeric Shrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Coral Reef": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Kelp Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Tropics": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Volcano": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mangrove": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Alps Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Canyon Ravine": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Glacier": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Lakes Marsh": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Meadow Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Oasis": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Quagmire": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Scrubland": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Seasonal Forest Clearing": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Silkglades": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spruce Woods": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Corrupted Sands": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Phantasmagoric Inferno": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Boneyard": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Visceral Heap": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Undergarden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Polar Chasm": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Spectral Garden": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Lush River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Dry River": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"biome.treasure.name": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Land of Darkness": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Sunflower Plains": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Desert M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Flower Forest": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Swampland M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Ice Plains Spikes": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Jungle M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"JungleEdge M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Birch Forest Hills M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Roofed Forest M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Cold Taiga M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mega Spruce Taiga": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Extreme Hills+ M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Savanna Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa (Bryce)": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau F M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		},
+		"Mesa Plateau M": {
+			"CocoaGrowthChance": [0.2,0.2]
+		}
+	}
+}

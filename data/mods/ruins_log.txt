@@ -1,0 +1,10 @@
+
+Loading excluded list from: C:\Games\Minecraft (Portable)\data\saves\New World\DIM_MYST-2147483648
+No exclusions found for this world.
+
+Loading options from: C:\Games\Minecraft (Portable)\data\saves\New World\DIM_MYST-2147483648
+tries_per_chunk_normal = 4
+chance_to_spawn_normal = 7.0
+templateInstancesMinDistance = 512.0
+anyRuinsMinDistance = 128.0
+Ruins mod loaded successfully for world C:\Games\Minecraft (Portable)\data\.\saves\New World\DIM_MYST-2147483648, template files: 32

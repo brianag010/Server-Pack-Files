@@ -1,0 +1,55 @@
+{
+	"seasonal": {
+		"Summer": {
+			"useVanillaTemperatureChanges": false,
+			"length": 7,
+			"alwaysStorming": false,
+			"alwaysRaining": false,
+			"overlayDuration": 300,
+			"displayOverlay": false
+		},
+		"Spring": {
+			"useVanillaTemperatureChanges": false,
+			"length": 7,
+			"alwaysStorming": false,
+			"alwaysRaining": false,
+			"overlayDuration": 300,
+			"displayOverlay": false
+		},
+		"Autumn": {
+			"useVanillaTemperatureChanges": false,
+			"length": 7,
+			"alwaysStorming": false,
+			"alwaysRaining": false,
+			"overlayDuration": 300,
+			"displayOverlay": false
+		},
+		"Winter": {
+			"useVanillaTemperatureChanges": false,
+			"length": 7,
+			"alwaysStorming": false,
+			"alwaysRaining": false,
+			"overlayDuration": 300,
+			"displayOverlay": false
+		}
+	},
+	"globals": {
+		"SummerHeat": true,
+		"DayTransition_minute": 30,
+		"SnowLogic": 3,
+		"currentDay": null,
+		"SummerHeatInterval": 600,
+		"SummerHeatDamage": 5,
+		"currentSeason": null,
+		"WinterFrostDamage": 10,
+		"DayTransition_hour": 6,
+		"WinterFrost": true,
+		"WinterFrostInterval": 350
+	},
+	"internals": {
+		"lastWorldTime": 0,
+		"seasonsConnected": false,
+		"haslastdaypassed": false,
+		"rerender": false
+	}
+}

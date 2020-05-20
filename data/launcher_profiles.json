@@ -1,0 +1,50 @@
+{
+	"settings": {
+		"crashAssistance": true,
+		"enableAdvanced": false,
+		"enableAnalytics": true,
+		"enableHistorical": false,
+		"enableReleases": true,
+		"enableSnapshots": false,
+		"keepLauncherOpen": false,
+		"profileSorting": "ByLastPlayed",
+		"showGameLog": false,
+		"showMenu": false,
+		"soundOn": false
+	},
+	"launcherVersion": {
+		"format": 21,
+		"name": "",
+		"profilesFormat": 2
+	},
+	"clientToken": "7a7be314e8f84a3fb14a42520fffcaf8",
+	"profiles": {
+		"27eba2517073a5b4cec5618c4e672c70" : {
+			"icon" : "Furnace",
+			"javaArgs" : "-Xms512m -Xmx2048M -XX:PermSize=256m -d64 -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=2 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10",
+			"lastVersionId" : "1.7.10-Forge10.13.4.1614-1.7.10",
+			"name" : "1.7.10 Forge (small ram)",
+			"type" : "custom"
+		},
+		"5cba1d8b9270207db10ea68e3a8c7ec7": {
+			"created": "1970-01-02T00:00:00.000Z",
+			"icon": "Grass",
+			"lastUsed": "1970-01-02T00:00:00.000Z",
+			"lastVersionId": "latest-release",
+			"name": "",
+			"type": "latest-release"
+		},
+		"8308046aef22f2a878cfa369b979868b": {
+			"created": "1970-01-01T00:00:00.000Z",
+			"icon": "Crafting_Table",
+			"lastUsed": "1970-01-01T00:00:00.000Z",
+			"lastVersionId": "latest-snapshot",
+			"name": "",
+			"type": "latest-snapshot"
+		},
+		"Forge": {
+			"name": "Forge",
+			"lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+		}
+	}
+}

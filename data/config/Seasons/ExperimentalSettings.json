@@ -1,0 +1,9 @@
+{
+	"ChunkUpdateOverhaul": {
+		"weatherFix": false,
+		"tickFix": false
+	},
+	"MenuOverhaul": {
+		"enable": false
+	}
+}

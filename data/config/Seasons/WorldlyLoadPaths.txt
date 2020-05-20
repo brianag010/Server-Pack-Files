@@ -1,0 +1,4 @@
+config\Seasons\WorldlyInternalDefaults.json
+config\Seasons\WorldlyOverridingDefaults.json
+&save&\WorldlySeasonalCustomizedTemplate.json
+&save&&dim&\WorldlySeasonalDimensionData.json

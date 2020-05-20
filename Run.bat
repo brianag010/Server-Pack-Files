@@ -1,0 +1,1 @@
+START "" "%CD%\bin\Minecraft.exe" --workDir "%CD%\data" --lockDir %CD%\data\.minecraft
