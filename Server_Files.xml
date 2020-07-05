@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="3.4" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
-	<Server id="Rettonica" abstract="false" name="Rettonica Test" newsUrl="about:blank" version="1.7.10" generateList="true" autoConnect="true" revision="1" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
-		<Loader type="Forge" version="10.13.4.1614" loadOrder="0"/>
+	<Server id="Rettonica" abstract="false" name="Rettonica Test" newsUrl="about:blank" version="1.7.10" generateList="true" autoConnect="false" revision="2" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
+		<Import url="http://files.mcupdater.com/example/forge.php?mc=1.7.10&amp;forge=10.13.4.1614">forge</Import>
 		<Module name="Aether Legacy" id="aether_legacy" depends="" side="BOTH">
 			<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/mods/aether_legacy-1.7.10-v1.0.2.jar</URL>
 			<Size>13747514</Size>
@@ -1247,29 +1247,6 @@ Supporters: JBoyJr</description>
 				<MD5>64ec230e3f15578528dc21cdcec188e6</MD5>
 			</ConfigFile>
 		</Module>
-		<Module name="Minecraft Forge" id="forge-10.13.4.1614" depends="" side="BOTH">
-			<Size>100000</Size>
-			<Required>true</Required>
-			<ModType>Regular</ModType>
-			<ConfigFile>
-				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/forge.cfg</URL>
-				<Path>config/forge.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
-				<MD5>81f9e79945ef085b97e073ac7d6ae9d0</MD5>
-			</ConfigFile>
-			<ConfigFile>
-				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/forgeChunkLoading.cfg</URL>
-				<Path>config/forgeChunkLoading.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
-				<MD5>3ca5c1db39ac108e8abeab74450a4f1d</MD5>
-			</ConfigFile>
-			<ConfigFile>
-				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/splash.properties</URL>
-				<Path>config/splash.properties</Path>
-				<NoOverwrite>false</NoOverwrite>
-				<MD5>97a15299b5f0d2a1982094eebda8b814</MD5>
-			</ConfigFile>
-		</Module>
 		<Module name="MineTweaker 3" id="MineTweaker3" depends="" side="BOTH">
 			<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/mods/MineTweaker3-1.7.10-3.0.10B.jar</URL>
 			<Size>927376</Size>
@@ -2182,6 +2159,29 @@ Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Don
 				<Path>config/rfpr.cfg</Path>
 				<NoOverwrite>false</NoOverwrite>
 				<MD5>444472136426a21480bff6781880204b</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Minecraft Forge" id="forge-10.13.4.1614" depends="" side="BOTH">
+			<Size>100000</Size>
+			<Required>true</Required>
+			<ModType order="1">Override</ModType>
+			<ConfigFile>
+				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/forge.cfg</URL>
+				<Path>config/forge.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>81f9e79945ef085b97e073ac7d6ae9d0</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/forgeChunkLoading.cfg</URL>
+				<Path>config/forgeChunkLoading.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>3ca5c1db39ac108e8abeab74450a4f1d</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/splash.properties</URL>
+				<Path>config/splash.properties</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>97a15299b5f0d2a1982094eebda8b814</MD5>
 			</ConfigFile>
 		</Module>
 	</Server>
