@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ServerPackv2.xsl" type="text/xsl" ?>
+<ServerPack version="3.3" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
+	<Server id="mcu-intro" name="MCUpdater - Introduction to Modded" newsUrl="http://files.mcupdater.com/example/SamplePack.xml" version="1.7.10" mainClass="net.minecraft.launchwrapper.Launch" revision="1" autoConnect="true">
+		<Import url="http://files.mcupdater.com/example/forge.php?mc=1.7.10&amp;forge=10.13.4.1614">forge</Import>
+		<Module name="AgriCraft" id="AgriCraft" depends="" side="BOTH">
+			<URL priority="0">http://addons.cursecdn.com/files/2228/714/AgriCraft-1.7.10-1.3.0-alpha6-b378.jar</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/AgriCraft-1.7.10-1.3.0-alpha6-b378.jar</URL>
+			<Size>572040</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2dc907dc0bbdde5bbe9b451c93f53e70</MD5>
+			<Meta>
+				<authors>InfinityRaider</authors>
+				<description>Agricultural farming extended</description>
+				<credits>InfinityRaider</credits>
+				<url>http://minecraft.curseforge.com/mc-mods/225635-agricraft</url>
+				<version>1.3.0-alpha6-b378</version>
+			</Meta>
+		</Module>
+		<Module name="ArmorStatusHUD" id="ArmorStatusHUD" depends="bspkrsCore" side="CLIENT">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/225564-armorstatushud/files/2218859/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/[1.7.10]ArmorStatusHUD-client-1.28.jar</URL>
+			<Size>27281</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>f0da1af3ea5b7797d2742b7a2b874e92</MD5>
+			<Meta>
+				<authors>bspkrs</authors>
+				<description>Provides a HUD with your equipped armor/item stats.</description>
+				<credits>Inspired by the armor/item tags available in IngameInfo by DaftPVF.</credits>
+				<url>http://www.minecraftforum.net/topic/1114612-/</url>
+				<version>1.28</version>
+			</Meta>
+			<ConfigFile>
+				<URL>http://files.mcupdater.com/example/intro/config/ArmorStatusHUD.cfg</URL>
+				<Path>config/ArmorStatusHUD.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>a6c04aa92126bc7a62d7e7e07eba4e71</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="bspkrsCore" id="bspkrsCore" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/59218-bspkrscore/files/2227503/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/1.7.10/[1.7.10]bspkrsCore-universal-6.16.jar</URL>
+			<ModPath>mods/1.7.10/[1.7.10]bspkrsCore-universal-6.16.jar</ModPath>
+			<Size>198525</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>e77344bda12bd0b91e01dfbb00a653f0</MD5>
+			<Meta>
+				<authors>DaftPVF, bspkrs</authors>
+				<description>Shared classes used in the mods maintained by bspkrs.</description>
+				<credits>Much of this code was originally part of DaftPVF&apos;s mods that I maintain.</credits>
+				<url>http://www.minecraftforum.net/topic/1114612-/</url>
+				<version>6.16</version>
+			</Meta>
+		</Module>
+		<Module name="CodeChicken Core" id="CodeChickenCore" depends="" side="BOTH">
+			<URL priority="0">http://adf.ly/wBbNx</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/CodeChickenCore-1.7.10-1.0.4.35-universal.jar</URL>
+			<Size>157765</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>0f82aedf717fe0f580b4fd3a6514a6ff</MD5>
+			<Meta>
+				<authors>ChickenBones</authors>
+				<description>Base common code for all chickenbones mods.</description>
+				<credits></credits>
+				<url>http://www.minecraftforum.net/topic/909223</url>
+				<version>1.0.4.35</version>
+			</Meta>
+		</Module>
+		<Module name="InfiniBows" id="InfiniBows" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/62121-infinibows/files/2217188/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/InfiniBows-1.7.10-universal-coremod-1.3.0.20.jar</URL>
+			<Size>25189</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>2833639f9b88868a023b92ef1a16b9fb</MD5>
+			<Meta>
+				<authors>Myrathi</authors>
+				<description>Removes the need for a single arrow in the inventory when using an &quot;Infinity I&quot; enchanted bow.</description>
+				<credits></credits>
+				<url>http://smarturl.it/InfiniBows</url>
+				<version>1.3.0.20</version>
+			</Meta>
+		</Module>
+		<Module name="InGame Info XML" id="InGameInfoXML" depends="LunatriusCore" side="CLIENT">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/225604-ingame-info-xml/files/2225624/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/InGameInfoXML-1.7.10-2.8.1.73-universal.jar</URL>
+			<Size>303078</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>f10cd1a9d53a91575363f50a2f3af0e2</MD5>
+			<Meta>
+				<authors>Lunatrius</authors>
+				<description>Display extra information on top of your ingame screen.</description>
+				<credits>DaftPVF, bspkrs</credits>
+				<url>http://mc.lunatri.us/</url>
+				<version>2.8.1.73</version>
+			</Meta>
+			<ConfigFile>
+				<URL>http://files.mcupdater.com/example/intro/config/InGameInfo.xml</URL>
+				<Path>config/InGameInfo.xml</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>99c23cfc319e83a2d69f68fd69d62544</MD5>
+			</ConfigFile>
+			<ConfigFile>
+				<URL>http://files.mcupdater.com/example/intro/config/InGameInfoXML.cfg</URL>
+				<Path>config/InGameInfoXML.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>d65d305959a0b6b3267f2100f2ef00b5</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Iron Chest" id="IronChest" depends="" side="BOTH">
+			<URL priority="0">http://files.minecraftforge.net/maven/cpw/mods/ironchest/1.7.10-6.0.62.742/ironchest-1.7.10-6.0.62.742-universal.jar</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/ironchest-1.7.10-6.0.62.742-universal.jar</URL>
+			<Size>158104</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>48d942594459c437ce8e8648ca42a7b9</MD5>
+			<Meta>
+				<authors>cpw</authors>
+				<description>New chests with larger sizes, with in-place upgrade items.
+The feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest</description>
+				<credits>By cpw, based on an original idea by Lishid</credits>
+				<url>http://www.minecraftforum.net/topic/981855-</url>
+				<version>6.0.62.742</version>
+			</Meta>
+		</Module>
+		<Module name="JABBA" id="JABBA" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/73510-jabba/files/2227488/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/Jabba-1.2.1_1.7.10.jar</URL>
+			<Size>440622</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>9d8788d8cfac57caf07be3eb74eae34c</MD5>
+			<Meta>
+				<authors>ProfMobius, Taelnia</authors>
+				<description>Moar barrels
+
+The Jabba team would like to thank the Academy for this award... oh wait... *cough* erm... Credits to neptunepink for the original barrel idea, Q and his community for the name, special thanks to skyboy for rendering assistance and the DSU, and the many people whom have made modded MC such an awesome thing to be a part of.</description>
+				<credits>[see description]</credits>
+				<url>http://mobiusstrip.eu/wiki/Jabba</url>
+				<version>1.2.1_1.7.10</version>
+			</Meta>
+		</Module>
+		<Module name="JourneyMap" id="journeymap" depends="" side="CLIENT">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2221283/download</URL>
+			<Size>1384981</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>2f633dcb91f32bc55779a3a6c763dff3</MD5>
+			<Meta>
+				<authors>techbrew</authors>
+				<description>JourneyMap Unlimited Edition: Real-time map in-game or in a web browser as you explore.</description>
+				<credits></credits>
+				<url>http://journeymap.techbrew.net</url>
+				<version>5.0.1</version>
+			</Meta>
+		</Module>
+		<Module name="LunatriusCore" id="LunatriusCore" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/225605-lunatriuscore/files/2225146/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/LunatriusCore-1.7.10-1.1.2.21-universal.jar</URL>
+			<Size>57644</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>435b2890f90cc256e0045eb559512eaf</MD5>
+			<Meta>
+				<authors>Lunatrius</authors>
+				<description>A collection of utilities for Lunatrius&apos; mods.</description>
+				<credits></credits>
+				<url>http://mc.lunatri.us/</url>
+				<version>1.1.2.21</version>
+			</Meta>
+		</Module>
+		<Module name="Modular Systems" id="modularsystems" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/68528-modular-systems/files/2219450/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/Modular%20Systems-1.7.10-1.7.1.jar</URL>
+			<Size>343899</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>8e73ed83364cdd8320ac9f1bc24ed255</MD5>
+			<Meta>
+				<authors>pauljoda</authors>
+				<description>Build it your way!</description>
+				<credits>Everyone who supported me over my time modding</credits>
+				<url></url>
+				<version></version>
+			</Meta>
+		</Module>
+		<Module name="Not Enough Items" id="NEI" depends="CodeChickenCore" side="BOTH">
+			<URL priority="0">http://adf.ly/vhVEW</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/NotEnoughItems-1.7.10-1.0.4.83-universal.jar</URL>
+			<Size>510700</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>8988420f4c4781580df6d05130920f10</MD5>
+			<Meta>
+				<authors>ChickenBones</authors>
+				<description>Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more.
+
+&lt;plugins&gt;
+
+Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Donut</description>
+				<credits>Alexandria - original idea</credits>
+				<url>http://www.minecraftforum.net/topic/909223</url>
+				<version>1.0.4.83</version>
+			</Meta>
+		</Module>
+		<Module name="ObsidiPlates" id="ObsidiPlates" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/59769-obsidiplates/files/2210527/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/ObsidiPlates-1.7.10-universal-3.0.0.18.jar</URL>
+			<Size>28532</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>20fc7e4fde83c7be83358a19bfffc4b1</MD5>
+			<Meta>
+				<authors>Myrathi</authors>
+				<description>Provides pressure plates that can only be activated by players (plus NPC, quiet and shrouded variants).</description>
+				<credits>JadedCat: because she asked for it :)</credits>
+				<url>http://smarturl.it/ObsidiPlates</url>
+				<version>3.0.0.18</version>
+			</Meta>
+		</Module>
+		<Module name="Progressive Automation" id="progressiveautomation" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/220606-progressive-automation-early-miner/files/2226481/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/ProgressiveAutomation-1.7.10-1.5.18.jar</URL>
+			<Size>239006</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d6e94b2ddcb9fddcddb0400bd0e91886</MD5>
+			<Meta>
+				<authors>Vanhal</authors>
+				<description>A mod that adds automation that can be built in the early game and upgraded throughout late game.</description>
+				<credits>Vanhal,Torrins</credits>
+				<url>https://github.com/Vanhal/ModJam/</url>
+				<version>1.5.18</version>
+			</Meta>
+		</Module>
+		<Module name="Realistic World Gen Alpha" id="RWG" depends="" side="BOTH">
+			<URL priority="0">https://dl.dropboxusercontent.com/u/104255295/RWG/RWG-alpha-1.3.01.jar</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/RWG-alpha-1.3.01.jar</URL>
+			<Size>210922</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>1bc2ce6a8e8008e79f19a590b92f3b96</MD5>
+			<Meta>
+				<authors>ted80</authors>
+				<description>Adds a new realistic worldtype</description>
+				<credits></credits>
+				<url></url>
+				<version>alpha-1.3.01</version>
+			</Meta>
+		</Module>
+		<Module name="Refined Relocation" id="RefinedRelocation" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/75811-refined-relocation/files/2227169/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/RefinedRelocation-1.7.10-1.0.7f.jar</URL>
+			<Size>1069760</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>d1392d0b6cd2b0f2d482254725cb4131</MD5>
+			<Meta>
+				<authors>Dynious, dmillerw</authors>
+				<description>Filter, sort and relocate!</description>
+				<credits>Dynious: founder, developer; dmillerw: developer; All other contributors!</credits>
+				<url></url>
+				<version>1.0.7c</version>
+			</Meta>
+		</Module>
+		<Module name="StatusEffectHUD" id="StatusEffectHUD" depends="bspkrsCore" side="CLIENT">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/225566-statuseffecthud/files/2218935/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/[1.7.10]StatusEffectHUD-client-1.27.jar</URL>
+			<Size>24785</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>d3b526e884043c01d5b1d23ca88a8cd4</MD5>
+			<Meta>
+				<authors>bspkrs</authors>
+				<description>Shows active player effects (potions, etc) without opening your inventory!</description>
+				<credits></credits>
+				<url>http://www.minecraftforum.net/topic/1114612-/</url>
+				<version>1.27</version>
+			</Meta>
+			<ConfigFile>
+				<URL>http://files.mcupdater.com/example/intro/config/StatusEffectHUD.cfg</URL>
+				<Path>config/StatusEffectHUD.cfg</Path>
+				<NoOverwrite>false</NoOverwrite>
+				<MD5>333d9bf01b9ccbcc59f6be63261aa1a2</MD5>
+			</ConfigFile>
+		</Module>
+		<Module name="Treecapitator" id="Treecapitator" depends="" side="BOTH">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/59216-treecapitator/files/2218771/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/mods/[1.7.10]Treecapitator-universal-2.0.4.jar</URL>
+			<Size>94792</Size>
+			<Required>true</Required>
+			<ModType>Regular</ModType>
+			<MD5>c9a8f77274a63745d2d0e1f026dffdbc</MD5>
+			<Meta>
+				<authors>DaftPVF, bspkrs</authors>
+				<description>Allows you to chop down entire trees by breaking a single log.</description>
+				<credits>Original by DaftPVF; additional credit to Lunatrius, AtomicStryker, ScottKillen</credits>
+				<url>http://www.minecraftforum.net/topic/1009577-/</url>
+				<version>2.0.4</version>
+			</Meta>
+		</Module>
+		<Module name="Waila" id="waila" depends="NEI" side="CLIENT">
+			<URL priority="0">http://minecraft.curseforge.com/mc-mods/73488-waila/files/2226952/download</URL>
+			<URL priority="1">http://files.mcupdater.com/example/intro/optional/Waila-1.5.9_1.7.10.jar</URL>
+			<Size>539206</Size>
+			<Required isDefault="true">false</Required>
+			<ModType>Regular</ModType>
+			<MD5>c469c01c60182e4a0ccd558c84bafed5</MD5>
+			<Meta>
+				<authors>ProfMobius</authors>
+				<description>All your data are belong to us.</description>
+				<credits>The Forge and FML guys, for making this example</credits>
+				<url></url>
+				<version>1.5.9_1.7.10</version>
+			</Meta>
+		</Module>
+		<Module name="Minecraft Forge" id="forge-10.13.2.1291" depends="" side="BOTH">
+			<Size>100000</Size>
+			<Required>true</Required>
+			<ModType order="1">Override</ModType>
+		</Module>
+	</Server>
+</ServerPack>
