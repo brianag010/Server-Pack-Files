@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="3.4" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
-	<Server id="Rettonica" abstract="false" name="Rettonica Test" newsUrl="about:blank" version="1.7.10" generateList="true" autoConnect="false" revision="2" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
+	<Server id="Rettonica" abstract="false" name="Rettonica" newsUrl="about:blank" version="1.7.10" generateList="false" autoConnect="false" revision="2.2" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
 		<Import url="http://files.mcupdater.com/example/forge.php?mc=1.7.10&amp;forge=10.13.4.1614">forge</Import>
 		<Module name="Aether Legacy" id="aether_legacy" depends="" side="BOTH">
 			<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/mods/aether_legacy-1.7.10-v1.0.2.jar</URL>
@@ -64,43 +64,43 @@
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/antiqueatlas/biome_textures.json</URL>
 				<Path>config/antiqueatlas/biome_textures.json</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>da36931de528a0c034be3ec5992a2d23</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/antiqueatlas/marker_textures.json</URL>
 				<Path>config/antiqueatlas/marker_textures.json</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>b7def8dab3d9e6737bdc0bae7d02b57b</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/antiqueatlas/settings.cfg</URL>
 				<Path>config/antiqueatlas/settings.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>4932ce3bf7e9c912199a99a8573f6dcb</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/antiqueatlas/texture_sets.json</URL>
 				<Path>config/antiqueatlas/texture_sets.json</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>ab74ccecf8ca8ee5e6b963f19812b343</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/antiqueatlas/tileids.json</URL>
 				<Path>config/antiqueatlas/tileids.json</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>d39bc0d45ba15905d7932b0bd360f70f</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/antiqueatlas/tile_textures.json</URL>
 				<Path>config/antiqueatlas/tile_textures.json</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>1c55a9bee11ba82df0b822328425802e</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/UniqueNames.txt</URL>
 				<Path>config/UniqueNames.txt</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>0e6999acd05146b24125e1a21599bdca</MD5>
 			</ConfigFile>
 		</Module>
@@ -249,7 +249,7 @@ And more!</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/BetterFoliage.cfg</URL>
 				<Path>config/BetterFoliage.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>ecdcd0d763e4f3a534db9b4e291190cc</MD5>
 			</ConfigFile>
 		</Module>
@@ -301,7 +301,7 @@ And more!</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/BiblioCraft.cfg</URL>
 				<Path>config/BiblioCraft.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>5a8eb38f0c3011f3583e705831699db3</MD5>
 			</ConfigFile>
 			<ConfigFile>
@@ -477,7 +477,7 @@ And more!</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/ChunkPurge.cfg</URL>
 				<Path>config/ChunkPurge.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>f1bea5cce158bb87a0de5e62625636b1</MD5>
 			</ConfigFile>
 		</Module>
@@ -537,13 +537,13 @@ Supporters: JBoyJr</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/CodeChickenCore.cfg</URL>
 				<Path>config/CodeChickenCore.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>ee11a8fc6fc8a04bac09db816fa76289</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/GardenStuff/GardenCore.cfg</URL>
 				<Path>config/GardenStuff/GardenCore.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>fa3bc626a922097834aded585c30c49f</MD5>
 			</ConfigFile>
 		</Module>
@@ -867,7 +867,7 @@ Supporters: JBoyJr</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/dsurround/dsurround.cfg</URL>
 				<Path>config/dsurround/dsurround.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>e1f9197ae0379258a7f608dc56bc19b2</MD5>
 			</ConfigFile>
 		</Module>
@@ -915,7 +915,7 @@ Supporters: JBoyJr</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/fastcraft.ini</URL>
 				<Path>config/fastcraft.ini</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>3efe05ad4dbd92f5e209869da208c9fc</MD5>
 			</ConfigFile>
 		</Module>
@@ -975,7 +975,7 @@ Supporters: JBoyJr</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/FpsReducer/FpsReducer.cfg</URL>
 				<Path>config/FpsReducer/FpsReducer.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>2cb696b135846985e5b9f83231298939</MD5>
 			</ConfigFile>
 		</Module>
@@ -1137,21 +1137,9 @@ Supporters: JBoyJr</description>
 				<authors>Corosus</authors>
 			</Meta>
 			<ConfigFile>
-				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/Weather2/EZGUIConfigClientData.dat</URL>
-				<Path>config/Weather2/EZGUIConfigClientData.dat</Path>
-				<NoOverwrite>false</NoOverwrite>
-				<MD5>67373051b38e218261835346a4526520</MD5>
-			</ConfigFile>
-			<ConfigFile>
-				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/Weather2/EZGUIConfigServerData.dat</URL>
-				<Path>config/Weather2/EZGUIConfigServerData.dat</Path>
-				<NoOverwrite>false</NoOverwrite>
-				<MD5>9ac05c6ee5663e9d925d5efa1487fe66</MD5>
-			</ConfigFile>
-			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/Weather2/Misc.cfg</URL>
 				<Path>config/Weather2/Misc.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>c3110c6cf02daebd554eb00d81284807</MD5>
 			</ConfigFile>
 		</Module>
@@ -1171,7 +1159,7 @@ Supporters: JBoyJr</description>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/LookingGlass.cfg</URL>
 				<Path>config/LookingGlass.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>9f4a910677c5b51b7c4da84e8fa6753f</MD5>
 			</ConfigFile>
 		</Module>
@@ -1412,7 +1400,7 @@ Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Don
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/NEI/bookmarks.ini</URL>
 				<Path>config/NEI/bookmarks.ini</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>7cdb9172ff0253d1dbdcee227c314173</MD5>
 			</ConfigFile>
 			<ConfigFile>
@@ -1856,7 +1844,7 @@ Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Don
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/smart_moving_options.txt</URL>
 				<Path>smart_moving_options.txt</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>adf3621db1dabc78d2b00ffe96a34ea1</MD5>
 			</ConfigFile>
 		</Module>
@@ -1896,7 +1884,7 @@ Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Don
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/soundfilters.cfg</URL>
 				<Path>config/soundfilters.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>0b399d616f68143ae50f869359fbd187</MD5>
 			</ConfigFile>
 		</Module>
@@ -2039,7 +2027,7 @@ Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Don
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/tickDynamic.cfg</URL>
 				<Path>config/tickDynamic.cfg</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>012324e7862632f13d306f68a67f07d1</MD5>
 			</ConfigFile>
 		</Module>
@@ -2105,13 +2093,13 @@ Supporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Don
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/xaerominimap.txt</URL>
 				<Path>config/xaerominimap.txt</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>b3c66bb95b320bd2e6f40249a645a065</MD5>
 			</ConfigFile>
 			<ConfigFile>
 				<URL priority="0">https://github.com/brianag010/Server-Pack-Files/raw/master/data/config/xaeropatreon.txt</URL>
 				<Path>config/xaeropatreon.txt</Path>
-				<NoOverwrite>false</NoOverwrite>
+				<NoOverwrite>true</NoOverwrite>
 				<MD5>82f395c2aa8d41d4e8d8bdfde7044b3c</MD5>
 			</ConfigFile>
 		</Module>
