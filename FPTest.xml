@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="files.mcupdater.com/example/ServerPackv2.xsl" type="text/xsl" ?>
 <ServerPack version="3.4" xmlns="http://www.mcupdater.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
-	<Server id="Rettonica" abstract="false" name="FastPack Test" newsUrl="https://raw.githubusercontent.com/brianag010/Server-Pack-Files/master/FPTest.xml" version="1.7.10" generateList="true" autoConnect="true" revision="1" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
+	<Server id="Rettonica" abstract="false" name="FastPack Test" newsUrl="https://raw.githubusercontent.com/brianag010/Server-Pack-Files/master/temp/test.html" version="1.7.10" generateList="true" autoConnect="true" revision="1" mainClass="net.minecraft.launchwrapper.Launch" launcherType="Vanilla">
 		<Loader type="Forge" version="10.13.4.1614" loadOrder="0"/>
 		<Module name="143test" id="test" depends="" side="BOTH">
 			<URL priority="0">http://files.mcupdater.com/fptest/mods/resources/ruins/templateparser/143test.tml</URL>
